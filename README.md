@@ -1,2 +1,2 @@
-"# git-tutorials" add modification stoy A
+"# git-tutorials" add modification story A
 
